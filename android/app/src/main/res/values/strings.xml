@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">age-caculator</string>
+    <string name="title_activity_main">age-caculator</string>
+    <string name="package_name">com.example.agecalculator</string>
+    <string name="custom_url_scheme">com.example.agecalculator</string>
+</resources>
